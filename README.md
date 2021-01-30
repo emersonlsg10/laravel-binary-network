@@ -1,8 +1,9 @@
-# redeBinaria
-Sistema básico de venda direta (Marketing Multinível) baseada em rede binária.
+# Binary Network - Recursive Function
 
-Feito em Laravel 5.6
+Basic direct selling system (Multilevel Marketing) based on binary network.
 
-Subir banco de dados, alterar senha e chamar http://localhost/emersonsilva/public/ ;
+Made in Laravel 5.6
 
-O sistema basicamente cadastra vendedores e atribui pontos a cada vendedor baseado na menor perna da rede binária de cada vendedor.
+Upload database, change password and call http: // localhost / emersonsilva / public /;
+
+The system basically registers salespeople and assigns points to each salesperson based on the lowest leg of each salesperson's binary network.
